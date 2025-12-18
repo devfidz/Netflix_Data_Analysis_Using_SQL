@@ -1,5 +1,5 @@
 # Netflix_Data_Analysis_Using_SQL
-![Logo](https://raw.githubusercontent.com/username/repository/main/logo.png)
+![Logo](https://github.com/devfidz/Netflix_Data_Analysis_Using_SQL/blob/main/logo.png)
 ## Project Overview
 
 This project conducts a comprehensive data analysis of Netflix's movies and TV shows catalog using structured SQL queries. 
